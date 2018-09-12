@@ -1,0 +1,19 @@
+body {
+    background-color: white;
+}
+
+a.homelink {
+    padding-top: 10px;
+    padding-left: 6px;
+    padding-bottom: 10px;
+    border-left: 6px solid;
+    border-color: deepskyblue;
+}
+
+a.worklinks {
+    padding-top: 10px;
+    padding-left: 6px;
+    padding-bottom: 10px;
+    border-left: 6px solid;
+    border-color: deepskyblue;
+}

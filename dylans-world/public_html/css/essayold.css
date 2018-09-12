@@ -1,0 +1,35 @@
+h1.essaytitle {
+    color: black;
+    text-align: center;
+}
+
+h2.author {
+    color: darkslategray;
+    text-align: center;
+}
+
+h3.headingtop {
+    border-left: 6px solid;
+    border-color: deepskyblue;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    color: midnightblue;
+
+}
+
+h3.heading {
+    border-left: 6px solid;
+    border-color: deepskyblue;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    color: midnightblue;
+}
+
+p.text {
+    border-left: 6px solid;
+    border-color: lightskyblue;
+    padding-left: 10px;
+    color:black;
+}
